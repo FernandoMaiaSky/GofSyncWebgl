@@ -1,0 +1,75 @@
+{
+  "live_url": "https://627mv3vxlbeajoseozh4l7ddha.appsync-api.eu-west-1.amazonaws.com/graphql",
+  "live_ws_url": "wss://627mv3vxlbeajoseozh4l7ddha.appsync-realtime-api.eu-west-1.amazonaws.com/graphql",
+  "live_ws_auth_host": "627mv3vxlbeajoseozh4l7ddha.appsync-api.eu-west-1.amazonaws.com",
+  
+  "headshots_url" : "https://d32y46grr4zijr.cloudfront.net/headshots/",
+  "live_interval" : 3,
+  "leaderboard_interval" : 30,
+  
+  "tournament_id" : "R2024060",
+  "hole_number" : 15,
+  "par" : 3,
+  
+  "betting" : {
+    "correct_points" : 5,
+    "rows" : 1,
+    "columns" : 2
+  },
+
+  "course_map_position" : {
+    "x" : 0,
+    "y" : -8,
+    "z" : 0
+  },
+
+  "betting_grid_position" : {
+    "x" : 2871,
+    "y" : 303,
+    "z" : 3193
+  },
+  "betting_grid_rotation" : {
+    "x" : 0,
+    "y" : -10,
+    "z" : 0
+  },
+  "betting_grid_scale" : {
+    "x" : 4,
+    "y" : 1,
+    "z" : 10
+  },
+  
+  "camera_starting_position" : {
+    "x" : 2937,
+    "y" : 416,
+    "z" : 3011
+  },
+  "camera_starting_rotation" : {
+    "x" : 41,
+    "y" : -29,
+    "z" : 0
+  },
+
+  "camera_betting_grid_position" : {
+    "x" : 2873,
+    "y" : 365,
+    "z" : 3185
+  },
+  "camera_betting_grid_rotation" : {
+    "x" : 90,
+    "y" : 0,
+    "z" : 10
+  },
+
+  "camera_before_shot_offset" : {
+    "x" : 0,
+    "y" : 3,
+    "z" : -9
+  },
+
+  "camera_landed_offset" : {
+    "x" : 0,
+    "y" : 3,
+    "z" : -9
+  }
+}
